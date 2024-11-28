@@ -17,6 +17,7 @@ Hugging Face Account (optional): For downloading models that might require authe
 1. Open the Colab Notebook: Click on the link below to open the Colab notebook: Google Colab Notebook Link
 
 2. Install Dependencies: All dependencies will be installed directly within the notebook:
+   
 ```bash
 !pip install openai transformers torch pydantic
 
